@@ -2,6 +2,15 @@
 
 # 🌤 안녕하세요. 대학생 맛집 플랫폼. 푸런팀에 오신것을 환영합니다.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/53509789/187067150-1cf03a36-99d7-4a91-a204-4c72bd327fdd.png" width="24%"/>
+ <img src="https://user-images.githubusercontent.com/53509789/187067158-65996299-3ac4-4fff-80ec-279f9a7e07ec.png" width="24%"/>
+ <img src="https://user-images.githubusercontent.com/53509789/187067169-5860679b-2487-47a4-880f-39618ffc24a1.png" width="24%"/>
+ <img src="https://user-images.githubusercontent.com/53509789/187067179-736f77e2-5d4f-4149-8222-bbc34e2302e4.png" width="24%"/>
+</p>
+
+
+
 ### 🥗 우라 동네 최고의 맛집을 찾아서.
 
  🟩 초록창 검색을 하면서 수 많은 광고로 `진짜` 맛집을 찾는게 어렵지 않으셨나요? <br>
