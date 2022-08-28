@@ -9,7 +9,7 @@
  <img src="https://user-images.githubusercontent.com/53509789/187067179-736f77e2-5d4f-4149-8222-bbc34e2302e4.png" width="24%"/>
 </p>
 
-
+#### [👉 앱스토어 링크 바로가기]()
 
 ### 🥗 우라 동네 최고의 맛집을 찾아서.
 
