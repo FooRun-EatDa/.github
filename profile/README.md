@@ -14,5 +14,5 @@
  저희 UNI-EAT은 대학교 근방으로 시작하여 전 세계 맛집을 찾아 나서는 음식지도 플랫폼입니다. <br>
  
  ### 서비스 개발
- [iOS 바로가기]() <br>
+ [iOS 바로가기](https://github.com/FooRun-EatDa/foorun-app-ios) <br>
  
